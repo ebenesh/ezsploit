@@ -1,0 +1,2 @@
+# ezsploit
+ezsploit.sh
